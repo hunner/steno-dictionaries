@@ -10,3 +10,15 @@
 [submodule "stanographer-steno-dictionaries"]
 	path = stanographer-steno-dictionaries
 	url = https://github.com/stanographer/steno-dictionaries
+[submodule "aerickt-steno-dictionaries"]
+	path = aerickt-steno-dictionaries
+	url = https://github.com/aerickt/steno-dictionaries
+[submodule "jeff-modifiers"]
+	path = jeff-modifiers
+	url = https://github.com/jthlim/jeff-modifiers
+[submodule "jeff-numbers"]
+	path = jeff-numbers
+	url = https://github.com/jthlim/jeff-numbers
+[submodule "Plumbers"]
+	path = Plumbers
+	url = https://github.com/Vermoot/Plumbers
